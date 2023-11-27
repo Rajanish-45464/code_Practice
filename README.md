@@ -1,2 +1,2 @@
 # code_Practice
-Daily Code Practice 
+Daily DSA Code Practice 
