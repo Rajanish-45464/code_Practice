@@ -1,4 +1,4 @@
-
+//advance program of star pattern 
 
 /*
         *
